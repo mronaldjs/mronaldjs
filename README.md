@@ -1,9 +1,10 @@
 # Hi there, I'm Marcello Ronald! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" alt="Hello GIF">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" alt="Hello GIF">
   <br />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UFG;Fullstack+Developer;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" /></a>
+  <a text-align="center" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Software+Engineering;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" /></a>
 </div>
 
 <hr />
