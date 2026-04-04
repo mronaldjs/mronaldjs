@@ -1,38 +1,53 @@
-# Marcello Ronald
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF" style="max-width: 200px; height: auto;">
+# Hi there, I'm Marcello Ronald! 👋
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" alt="Hello GIF">
+  <br />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UFG;Fullstack+Developer;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" /></a>
 </div>
-<br />
-Só mais um dentre vários que vêem o mundo sob uma outra perspectiva. <br /><br />
 
-Visite meu blog em: [o_blog](https://www.oblog.app/)
+<hr />
 
----
+### About Me
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mronald-js&theme=catppuccin-macchiato&locale=pt_BR)](https://git.io/streak-stats)
+I'm a Software Engineering student at **Universidade Federal de Goiás (UFG)** based in Brazil. I'm passionate about building modern web applications and solving complex problems with elegant code.
 
----
+- 🔭 **Currently working on**: My personal projects and improving my developer skills.
+- 🎓 **Education**: Software Engineering at UFG (Universidade Federal de Goiás).
+- 📫 **How to reach me**: Check my social links below!
 
-## Linguagens, Tecnologias e Ferramentas
+<hr />
 
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+### Featured Projects
 
+- **[Jogo da Forca Rework](https://github.com/mronald-js/jogo-da-forca-rework)**: A modern, fully remastered hangman game.
+- **[Pymail Analyser](https://github.com/mronald-js/pymail-analyser)**: A tool focused on analyzing email headers safely and efficiently.
+<br/>
+<div align="start">
+  <a href="https://www.oblog.app/">
+    <img src="https://img.shields.io/badge/Acesse_O_Blog-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="O Blog Badge">
+  </a>
+  <a href="https://mronaldjs.com/">
+    <img src="https://img.shields.io/badge/Acesse_Meu_Portf%C3%B3lio-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio Badge">
+  </a>
+</div>
 
+<br/>
 
-### UFG
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-| --- | --- | --- |
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mronaldjs&theme=catppuccin-macchiato&locale=pt_BR" alt="GitHub Streak" width="100%">
+</div>
 
-### Ferramentas
-| ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| --- |
+<hr />
 
-> Observação: os badges indicam tecnologias com as quais tive contato — não necessariamente domínio completo de todas.
+### 🔗 Social Connects
 
-## 🔗 Social
-| Portfolio | LinkedIn | Instagram | X |
-| --- | --- | --- | --- |
-| [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mronaldjs.com/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-ronald-silva-121086258) | [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mronald.zzz/) | [![X - @mronaldjs](https://img.shields.io/badge/X-@mronaldjs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mronaldjs) |
+<p align="center">
+  <a href="https://mronaldjs.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/marcello-ronald-silva-121086258"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.oblog.app/"><img src="https://img.shields.io/badge/Blog-FF4B11?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
+  <a href="https://www.instagram.com/mronald.zzz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/mronaldjs"><img src="https://img.shields.io/badge/X-@mronaldjs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
+</p>
 
----
+<hr />
