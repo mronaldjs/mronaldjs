@@ -8,6 +8,16 @@
   <a href="https://mronaldjs.com/">
     <img src="https://img.shields.io/badge/Access My Portfolio-%234ECDC4?style=for-the-badge&color=FBC2EB" alt="Portfolio Badge" style="cursor: pointer;">
   </a>
+
+  <br />
+</div>
+
+<hr />
+
+<div align="center" style="margin-bottom: -20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=A18CD1&center=true&vStart=true&width=800&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" />
+  </a>
 </div>
 
 <hr />
@@ -16,16 +26,10 @@
 
 A Software Engineering student, very curious and passionate about modern web applications and solving complex problems.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" alt="Hello GIF">
-  <br />
-  <a text-align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Software+Engineering;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" /></a>
-</div>
 
-🎓 | Currently taking B.S. in Software Engineering.
-📫 **How to reach me**: Check my [Social Media links](#-social-media)
-
+> <br/>🎓 Pursuing a B.S. in <span style="color: #2245e6;">Software Engineering</span>.
+> 📫 **How to reach me**: Check my <a style="text-decoration: underline;" href="#-social-media">Social Media links</a>
+<br/>
 ---
 
 ### <span style="border-bottom: 3px solid #b061ec; display:inline-block;">Focus</span>
@@ -45,8 +49,6 @@ A Software Engineering student, very curious and passionate about modern web app
       <h3 style="margin: 0; border-bottom: 3px solid #b061ec; padding-bottom: 10px;">Daily Drivers</h3>
       <p style="margin: 8px 0; font-size: 0.85em; color: #888;">Used regularly</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
         <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -56,13 +58,14 @@ A Software Engineering student, very curious and passionate about modern web app
       <h3 style="margin: 0; border-bottom: 3px solid #ff79c6 ; padding-bottom: 10px;">Comfortable</h3>
       <p style="margin: 8px 0; font-size: 0.85em; color: #888;">Have experience with</p>
       <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
       </div>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
     </td>
     <td width="33%" align="center">
       <h3 style="margin: 0; border-bottom: 3px solid 
@@ -71,7 +74,7 @@ A Software Engineering student, very curious and passionate about modern web app
       <div align="center">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/Aws Cloud Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Aws Cloud Services">
       </div>
     </td>
   </tr>
@@ -82,7 +85,7 @@ A Software Engineering student, very curious and passionate about modern web app
 
 ### Selected Projects
 
-- **[Pymail Analyser](https://github.com/mronald-js/pymail-analyser)**: A tool focused on analyzing email headers safely and efficiently.
+**[Pymail Analyser](https://github.com/mronald-js/pymail-analyser)**: An open-source tool designed to help you clean up and manage your email inbox. Through an intuitive interface, it analyzes your emails via IMAP, identifies "low-quality" senders (with high volume and low open rates), and allows you to take quick actions like archiving or bulk deleting messages..
 
 ---
 
@@ -106,11 +109,11 @@ A Software Engineering student, very curious and passionate about modern web app
 ### 🔗 Social Media
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mronaldjs" style="cursor: pointer;">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/mronaldjs">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white "style="cursor: pointer;" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/mronaldjs/" style="cursor: pointer;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white "style="cursor: pointer" alt="Instagram">
   </a>
 </p>
 
