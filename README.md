@@ -2,10 +2,10 @@
   <img src="./mronaldjs-profile-banner.svg" alt="Profile Banner" width="100%">
 </p>
 <div align="start" style="margin-top: 20px;">
-  <a href="https://www.oblog.app/">
+  <a target="_blank" href="https://www.oblog.app/">
     <img src="https://img.shields.io/badge/My Personal blog-%23FF6B6B?style=for-the-badge&color=A18CD1" alt="Blog Pessoal" style="cursor: pointer;">
   </a>
-  <a href="https://mronaldjs.com/">
+  <a target="_blank" href="https://mronaldjs.com/">
     <img src="https://img.shields.io/badge/Access My Portfolio-%234ECDC4?style=for-the-badge&color=FBC2EB" alt="Portfolio Badge" style="cursor: pointer;">
   </a>
   <br />
@@ -14,9 +14,7 @@
 <hr />
 
 <div align="center" style="margin-bottom: -20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=A18CD1&center=true&vStart=true&width=800&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=A18CD1&center=true&vStart=true&width=800&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" />
 </div>
 
 <hr />
@@ -26,7 +24,7 @@
 A Software Engineering student, very curious and passionate about modern web applications and solving complex problems.
 
 
-> 🎓 Pursuing a B.S. in <span style="color: #2245e6;">Software Engineering</span>.
+> 🎓 Pursuing a B.S. in <span style="color: #600b70;">Software Engineering</span>.
 
 > 📫 **How to reach me**: Check my <a style="text-decoration: underline;" href="#-social-media">Social Media links</a>
 
@@ -115,6 +113,10 @@ Modern web experiences with scalable architecture
   <a href="https://www.instagram.com/mronaldjs/" style="cursor: pointer;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white "style="cursor: pointer" alt="Instagram">
   </a>
+  <a href="mailto:mronaldjs@gmail.com" style="cursor: pointer;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"   style="cursor: pointer" alt="Email">
+  </a>
+
 </p>
 
 <hr />
