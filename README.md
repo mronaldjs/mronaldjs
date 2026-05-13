@@ -8,7 +8,6 @@
   <a href="https://mronaldjs.com/">
     <img src="https://img.shields.io/badge/Access My Portfolio-%234ECDC4?style=for-the-badge&color=FBC2EB" alt="Portfolio Badge" style="cursor: pointer;">
   </a>
-
   <br />
 </div>
 
@@ -27,17 +26,18 @@
 A Software Engineering student, very curious and passionate about modern web applications and solving complex problems.
 
 
-> <br/>🎓 Pursuing a B.S. in <span style="color: #2245e6;">Software Engineering</span>.
+> 🎓 Pursuing a B.S. in <span style="color: #2245e6;">Software Engineering</span>.
+
 > 📫 **How to reach me**: Check my <a style="text-decoration: underline;" href="#-social-media">Social Media links</a>
-<br/>
+
 ---
 
 ### <span style="border-bottom: 3px solid #b061ec; display:inline-block;">Focus</span>
 
-- AI agents and intelligent automation
-- Developer tools and productivity workflows
-- Product-focused full-stack applications
-- Modern web experiences with scalable architecture
+AI agents and intelligent automation
+Developer tools and productivity workflows
+Product-focused full-stack applications
+Modern web experiences with scalable architecture
 
 ---
 
