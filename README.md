@@ -13,7 +13,7 @@
 
 <hr />
 
-<div align="center" style="margin-bottom: -20px;">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=A18CD1&center=true&vStart=true&width=800&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" />
 </div>
 
