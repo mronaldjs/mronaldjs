@@ -41,10 +41,10 @@ Modern web experiences with scalable architecture
 
 ### Tech Stack
 
-<table>
+<table style="width:100%; border-collapse:separate; border-spacing:20px; table-layout:fixed;">
   <tr>
-    <td width="33%" align="center">
-      <h3 style="margin: 0; border-bottom: 3px solid #b061ec; padding-bottom: 10px;">Daily Drivers</h3>
+    <td width="33%" align="center" style="width:33%; padding:24px; vertical-align:top;">
+      <h3 style="margin: 0; absolute; border-bottom: 3px solid #b061ec; padding-bottom: 10px;">Daily Drivers</h3>
       <p style="margin: 8px 0; font-size: 0.85em; color: #888;">Used regularly</p>
       <div align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -52,7 +52,7 @@ Modern web experiences with scalable architecture
         <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
       </div>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="width:33%; padding:24px; vertical-align:top;">
       <h3 style="margin: 0; border-bottom: 3px solid #ff79c6 ; padding-bottom: 10px;">Comfortable</h3>
       <p style="margin: 8px 0; font-size: 0.85em; color: #888;">Have experience with</p>
       <div align="center">
@@ -65,7 +65,7 @@ Modern web experiences with scalable architecture
       </div>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" style="width:33%; padding:24px; vertical-align:top;">
       <h3 style="margin: 0; border-bottom: 3px solid 
        #50fa7b; padding-bottom: 10px;">Learning</h3>
       <p style="margin: 8px 0; font-size: 0.85em; color: #888;">Exploring & Growing</p>
