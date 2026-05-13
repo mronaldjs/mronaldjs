@@ -107,7 +107,7 @@
   <!-- TERMINAL PART - Unmodified original code -->
   <g id="terminal-part">
     <!-- Command prompt line - repositioned higher -->
-    <text x="20" y="40" font-family="monospace" font-size="14" fill="#50fa7b">mronaldjs@github:~$ <tspan font-family="monospace" font-size="14" fill="#f8f8f2">GET profile mronaldjs --verbose</tspan></text>
+    <text x="20" y="40" font-family="monospace" font-size="14" fill="#9e20bd">mronaldjs@github:~$ <tspan font-family="monospace" font-size="14" fill="#f8f8f2">GET profile mronaldjs --verbose</tspan></text>
     
     <!-- Loading message - repositioned higher -->
     <text x="20" y="70" font-family="monospace" font-size="16" fill="#bd93f9" font-weight="bold">Loading mronaldjs's profile...</text>
@@ -116,7 +116,7 @@
     <rect x="20" y="90" width="760" height="20" rx="3" ry="3" fill="#44475a" />
     
     <!-- Progress bar with animation - changed to run once only -->
-    <rect x="20" y="90" width="0" height="20" rx="3" ry="3" fill="#50fa7b">
+    <rect x="20" y="90" width="0" height="20" rx="3" ry="3" fill="#9e20bd">
       <animate 
         attributeName="width" 
         values="0;760" 
