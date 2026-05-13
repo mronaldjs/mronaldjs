@@ -44,7 +44,7 @@ Modern web experiences with scalable architecture
 <table style="width:100%; border-collapse:separate; border-spacing:20px; table-layout:fixed;">
   <tr>
     <td width="33%" align="center" style="width:33%; padding:24px; vertical-align:top;">
-      <h3 style="margin: 0; absolute; border-bottom: 3px solid #b061ec; padding-bottom: 10px;">Daily Drivers</h3>
+      <h3 style="margin: 0; border-bottom: 3px solid #b061ec; padding-bottom: 10px;">Daily Drivers</h3>
       <p style="margin: 8px 0; font-size: 0.85em; color: #888;">Used regularly</p>
       <div align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
