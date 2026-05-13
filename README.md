@@ -91,7 +91,7 @@ Modern web experiences with scalable architecture
   <img src="https://streak-stats.demolab.com?user=mronaldjs&theme=catppuccin-macchiato&locale=en_US" alt="GitHub Streak" width="100%">
 
 
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="display: flex; justify-content: center; margin-top: 20px;">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mronaldjs&theme=midnight_purple)
 
