@@ -13,8 +13,7 @@
 
 <hr />
 
-<div align="center" style="margin-top: 20px;">
-  <br />
+<div align="center" style="margin-bottom: -20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=A18CD1&center=true&vStart=true&width=800&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Transforming+ideas+into+code" alt="Typing SVG" />
 </div>
 
@@ -84,7 +83,7 @@ Modern web experiences with scalable architecture
 
 ### Selected Projects
 
-**[Pymail Analyser](https://github.com/mronald-js/pymail-analyser)**: An open-source tool designed to help you clean up and manage your email inbox. Through an intuitive interface, it analyzes your emails via IMAP, identifies "low-quality" senders (with high volume and low open rates), and allows you to take quick actions like archiving or bulk deleting messages..
+**<a href="https://github.com/mronald-js/pymail-analyser" target="_blank" rel="noopener noreferrer">Pymail Analyser</a>**: An open-source tool designed to help you clean up and manage your email inbox. Through an intuitive interface, it analyzes "low-quality" senders (with high volume and low open rates), and allows you to take quick actions like archiving or bulk deleting messages..
 
 ---
 
@@ -106,13 +105,13 @@ Modern web experiences with scalable architecture
 ### 🔗 Social Media
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mronaldjs">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mronaldjs">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white "style="cursor: pointer;" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/mronaldjs/" style="cursor: pointer;">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/mronaldjs/" style="cursor: pointer;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white "style="cursor: pointer" alt="Instagram">
   </a>
-  <a href="mailto:mronaldjs@gmail.com" style="cursor: pointer;">
+  <a target="_blank" rel="noopener noreferrer" href="mailto:mronaldjs@gmail.com" style="cursor: pointer;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"   style="cursor: pointer" alt="Email">
   </a>
 
