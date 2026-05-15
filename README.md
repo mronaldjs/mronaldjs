@@ -32,10 +32,10 @@ A Software Engineering student, very curious and passionate about modern web app
 
 ### <span style="border-bottom: 3px solid #b061ec; display:inline-block;">Focus</span>
 
-AI agents and intelligent automation
-Developer tools and productivity workflows
-Product-focused full-stack applications
-Modern web experiences with scalable architecture
+- AI agents and intelligent automation
+- Developer tools and productivity workflows
+- Product-focused full-stack applications
+- Modern web experiences with scalable architecture
 
 ---
 
