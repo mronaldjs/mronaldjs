@@ -111,7 +111,7 @@ A Software Engineering student, very curious and passionate about modern web app
   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/mronaldjs/" style="cursor: pointer;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white "style="cursor: pointer" alt="Instagram">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="mailto:mronaldjs@gmail.com" style="cursor: pointer;">
+  <a target="_blank" rel="noopener noreferrer" href="mailto:oronaldzzz@pm.me" style="cursor: pointer;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"   style="cursor: pointer" alt="Email">
   </a>
 
